@@ -1,7 +1,5 @@
 package com.company.arrays;
-
 import java.util.Scanner;
-
 public class Even_sum {
     public static void main(String[] args) {
         int i,sum=0,j;

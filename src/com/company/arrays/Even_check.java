@@ -1,7 +1,5 @@
 package com.company.arrays;
-
 import java.util.*;
-
 public class Even_check {
     public static void main(String[] args) {
         int i;

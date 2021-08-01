@@ -1,7 +1,5 @@
 package com.company.arrays;
-
 import java.util.*;
-
 public class sum_array {
     public static void main(String[] args) {
         int i,sum=0;
